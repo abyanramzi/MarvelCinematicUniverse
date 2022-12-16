@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/drawable/shape_for_synopsis.xml" value="0.2385" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/drawable/shape_for_title.xml" value="0.2385" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film1.xml" value="0.16756756756756758" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film10.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film11.xml" value="0.31725888324873097" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film12.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film13.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film14.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film15.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film16.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film17.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film18.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film19.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film2.xml" value="0.23452768729641693" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film20.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film21.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film22.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film23.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film24.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film25.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film26.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film27.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film28.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film29.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film30.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film4.xml" value="0.3333333333333333" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film5.xml" value="0.3117206982543641" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film6.xml" value="0.3654970760233918" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film7.xml" value="0.33" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film8.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_film9.xml" value="0.371875" />
+        <entry key="..\:/Abyan/mnProject/MCU/app/src/main/res/layout/activity_main.xml" value="0.15321720583007464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

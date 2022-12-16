@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.arc.mcu">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MCU"
+        tools:targetApi="31"
+        tools:ignore="ExtraText">
+
+        //DetailFilm
+        <activity
+            android:name=".detail.Film1"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film2"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film3"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film4"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film5"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film6"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film7"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film8"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film9"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film10"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film11"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film12"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film13"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film14"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film15"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film16"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film17"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film18"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film19"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film20"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film21"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film22"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film23"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film24"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film25"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film26"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film27"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film28"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film29"
+            android:exported="false" />
+        <activity
+            android:name=".detail.Film30"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
